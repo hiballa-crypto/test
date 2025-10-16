@@ -2,7 +2,7 @@ hiii.txt is a file that can be used
 using is not the file
 file is not in this file
 how are you
-i am fine
+i am fine -> main
 how is your life
 everything is fine
 
