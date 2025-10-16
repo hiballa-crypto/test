@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 that is the first line of hiiiiiiiiiiiii
+=======
+that is the first line of hiiii
+>>>>>>> branch1
 hiii has this line
 this is the line created in hiii
 i am fine in this line

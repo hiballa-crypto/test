@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 hiiiiiiiiiiii
+=======
+hii
+>>>>>>> branch1
 first line
 second line
 third line -> updated in main
