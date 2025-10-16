@@ -4,5 +4,5 @@ second line
 third line -> updated in branch1
 fourth line
 fifth line -> updated in branch1
-endof file hi
+endof file hi -> branch1
 
