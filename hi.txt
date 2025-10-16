@@ -2,6 +2,7 @@ hi
 first line
 second line
 third line -> updated in main
+third line -> updated in branch1
 fourth line
 fifth line
 endof file hi
