@@ -4,5 +4,5 @@ file is not in this file
 how are you
 i am fine -> main
 how is your life
-everything is fine -> main
+everything is fine -> main & branch1
 

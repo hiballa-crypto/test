@@ -5,5 +5,5 @@ third line -> updated in main
 third line -> updated in branch1
 fourth line -> updated in main
 fifth line -> updated in branch1
-endof file hi -> main
+endof file hi -> main & branch1
 
