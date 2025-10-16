@@ -4,6 +4,6 @@ second line
 third line -> updated in main
 third line -> updated in branch1
 fourth line -> updated in main
-fifth line
+fifth line -> updated in branch1
 endof file hi
 
