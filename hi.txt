@@ -3,7 +3,7 @@ first line
 second line
 third line -> updated in main
 third line -> updated in branch1
-fourth line
+fourth line -> updated in main
 fifth line
 endof file hi
 
